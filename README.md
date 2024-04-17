@@ -9,6 +9,10 @@ This project is a web-based currency converter application that allows users to 
 - Dropdown menus for selecting source and target currencies.
 - Real-time exchange rate updates.
 - Display of the converted amount based on user input.
+- 
+## Demo
+
+You can see a live demo of the FAQ accordion [here](https://currency-converter-rosy-nu.vercel.app/)
 
 ## Getting Started
 
