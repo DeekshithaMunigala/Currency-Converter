@@ -10,9 +10,6 @@ This project is a web-based currency converter application that allows users to 
 - Real-time exchange rate updates.
 - Display of the converted amount based on user input.
 - 
-## Demo
-
-You can see a live demo of the Currency Converter [here](https://currency-converter-rosy-nu.vercel.app/)
 
 ## Getting Started
 
