@@ -12,7 +12,7 @@ This project is a web-based currency converter application that allows users to 
 - 
 ## Demo
 
-You can see a live demo of the FAQ accordion [here](https://currency-converter-rosy-nu.vercel.app/)
+You can see a live demo of the Currency Converter [here](https://currency-converter-rosy-nu.vercel.app/)
 
 ## Getting Started
 
