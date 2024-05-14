@@ -1,11 +1,5 @@
 # Currency Converter
 
-# Demo
-
-[Currency Converter](https://currency-converter-5jn004wcd-deekshithamunigalas-projects.vercel.app/)
-
-## Overview
-
 This project is a web-based currency converter application that allows users to convert currencies based on the latest exchange rates. Users can select the source and target currencies from dropdown menus and enter the amount they wish to convert. The application fetches the exchange rates from a third-party API and displays the converted amount.
 
 ## Features
@@ -13,7 +7,10 @@ This project is a web-based currency converter application that allows users to 
 - Dropdown menus for selecting source and target currencies.
 - Real-time exchange rate updates.
 - Display of the converted amount based on user input.
-- 
+
+## Demo
+
+[Currency Converter](https://currency-converter-5jn004wcd-deekshithamunigalas-projects.vercel.app/)
 
 ## Getting Started
 
